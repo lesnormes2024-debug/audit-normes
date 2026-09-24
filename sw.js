@@ -1,6 +1,6 @@
 // Service worker minimal : cache-first pour le shell et les assets statiques.
-const CACHE = "audit-normes-v10";
-const ASSETS = ["./", "./index.html", "./css/styles.css", "./manifest.json",
+const CACHE = "audit-normes-v11";
+const ASSETS = ["./", "./index.html", "./css/styles.css", "./manifest.json", "./ads.txt",
   "./js/app.js", "./js/store.js", "./js/views.js", "./js/ads.js", "./js/billing.js",
   "./js/export.js", "./js/data/index.js", "./js/data/meta.js", "./js/data/dom2.js",
   "./js/data/dom3.js", "./js/data/dom4.js", "./js/data/dom5.js", "./js/data/glossary.js",
